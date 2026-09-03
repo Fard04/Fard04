@@ -1,4 +1,4 @@
-# ⚙️ TY'S ENGINEERING LAB
+#  TY'S ENGINEERING LAB
 
 ### Computer × Electrical Engineering | Software × Hardware × Automation
 
@@ -6,28 +6,16 @@
 
 ---
 
-## 🟢 SYSTEM STATUS
-
-| System                    | Status    |
-| ------------------------- | --------- |
-| 💻 Software Engineering   |  ONLINE |
-| ⚡ Electrical Engineering  |  ONLINE |
-| 🤖 Industrial Automation  |  ONLINE |
-| 🌐 Networking & Systems   |  ONLINE |
-| ☁️ Cloud & Infrastructure |  ONLINE |
-| 🔬 Engineering Simulation |  ONLINE |
-
----
 
 ##  ENGINEERING FOCUS
 
 ```text
-SOFTWARE        ████████████████████░░  90%
-HARDWARE        ██████████████████░░░░  85%
-AUTOMATION      ███████████████████░░░  88%
-NETWORKING      ████████████████░░░░░░  75%
-CLOUD           ██████████████░░░░░░░░  65%
-SIMULATION      █████████████████░░░░░  80%
+SOFTWARE      
+HARDWARE          
+AUTOMATION  
+NETWORKING        
+CLOUD             
+SIMULATION
 ```
 
 ---
